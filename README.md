@@ -1,2 +1,2 @@
 # helmi14adam
-Just another repository
+hello word!
